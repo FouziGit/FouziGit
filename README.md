@@ -8,7 +8,7 @@ My name is **Nouh Benzidane**, I am 23 years old and currently an apprenticeship
 
 ## Projects
 - [ToDo List API](https://github.com/FouziGit/API_Task): Created a ToDoList app.
-- [Project Name 2](https://github.com/FouziGit/TheBinding_of_Briatte): Recreated for a group project the famous game Binding of Isaac in C.
+- [TheBinding_of_Briatte](https://github.com/FouziGit/TheBinding_of_Briatte): Recreated for a group project the famous game Binding of Isaac in C.
 
 ## Skills
 - Ethereum
