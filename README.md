@@ -22,7 +22,6 @@ My name is **Nouh Benzidane**, I am 23 years old and currently an apprenticeship
 - MongoDB
 - Vue3
 - HTML/CSS
-- Rust
 - Docker
 
 If you are interested in my journey or have career opportunities in mind, feel free to reach out to me! I am always looking for new opportunities to develop my skills and collaborate on exciting projects.
