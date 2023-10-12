@@ -1,10 +1,10 @@
 # Welcome to my Github Profile !
 
 ## About Me
-My name is **Nouh Benzidane**, I am 23 years old and currently an apprenticeship in blockchain engineering. My goal is to develop  skills while working on exciting projects.
+My name is **Nouh Benzidane**, I am 24 years old and currently an apprenticeship in blockchain engineering. My goal is to develop  skills while working on exciting projects.
 
 ## Experience
-- Apprenticeship in Blockchain Engineering : I am currently working on projects related to the Blockchain, using technologies such as Ethereum, Solidity, and JavaScript. I was apprentice in Kryptulip is an investment platform that connects inventors and new technology enthusiasts. It associates NFTs (non-fungible tokens) with IP assets.
+- Freelance in Blockchain Engineering : I am currently working on projects related to the Blockchain, using technologies such as Ethereum, Solidity, and JavaScript.
 
 ## Projects
 - [API_Task](https://github.com/FouziGit/API_Task): Created a ToDoList app.
