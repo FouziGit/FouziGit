@@ -1,7 +1,7 @@
 # Welcome to my Github Profile !
 
 ## About Me
-My name is **Nouh Benzidane**, I am 24 years old and currently an apprenticeship in blockchain engineering. My goal is to develop  skills while working on exciting projects.
+My name is **Nouh Benzidane**, I am 24 years old and currently an IT Trainer. My goal is to develop students skills while working on exciting projects.
 
 ## Experience
 - Freelance in Blockchain Engineering : I am currently working on projects related to the Blockchain, using technologies such as Ethereum, Solidity, and JavaScript.
